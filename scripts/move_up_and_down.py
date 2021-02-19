@@ -4,7 +4,7 @@ import json
 import sys
 import robot_fingers
 
-from rrc_example_package.example import move_up_and_down
+from rrc_iprl_package.example import move_up_and_down
 
 
 # Number of actions in one episode (1000 actions per second for two minutes)
