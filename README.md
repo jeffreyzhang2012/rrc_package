@@ -1,6 +1,6 @@
 Example Package for the Real Robot Challenge Submission System
 ==============================================================
-
+https://arxiv.org/pdf/2101.11597.pdf
 
 This is a basic example for a package that can be submitted to the robots of
 the [Real Robot Challenge](https://real-robot-challenge.com).
